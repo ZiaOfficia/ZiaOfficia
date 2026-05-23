@@ -6,7 +6,7 @@
 
 ### ✨ Full Stack Builder | MERN + SQL | AI-Augmented Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%F0%9F%8C%BF;Frontend+Developer+%F0%9F%8C%B8;Creative+Coder+%F0%9F%8D%83;Building+Beautiful+Experiences+%F0%9F%8C%BA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Computer+Scientist+💻;Backend+Developer+⚡;Database+Management+🗄️;System+Designer+🌿;Full+Stack+Builder+🚀;AI-Augmented+Developer+✨" />
 
 </div>
 
